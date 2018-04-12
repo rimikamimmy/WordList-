@@ -14,6 +14,7 @@ class ListTableViewCell: UITableViewCell {
     @IBOutlet var englishLabel: UILabel!
     @IBOutlet var japaneseLabel: UILabel!
     
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
